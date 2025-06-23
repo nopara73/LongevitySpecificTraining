@@ -1,6 +1,11 @@
 # Longevity Specific Training (LST)
 Longevity Specific Training (LST) is a biomedical approach to exercising that targets what reduces mortality, adverse health outcomes and functional decline.
 
+
+## License
+
+This project is released under the MIT License. This means you can do anything you want with it.
+
 ## Authors
 
 This system is designed by a community of [Longevity Athletes](https://www.longevityworldcup.com/), moderated and arbitrated by [nopara73](https://github.com/nopara73), a random guy on the Internet.
@@ -22,4 +27,4 @@ Epistemology is the study of how we know what we know. It gives us the tools to 
 
 ### Biomedical Approach
 
-The biomedical approach to training is the inevitable outcome of our epistemic standards.
+The biomedical approach to training is the inevitable outcome of our epistemic standards. The day when a more appropriate approach is found will be the glorious day when LST 2.0 will be born.
