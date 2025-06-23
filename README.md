@@ -27,4 +27,10 @@ Epistemology is the study of how we know what we know. It gives us the tools to 
 
 ### Biomedical Approach
 
+Biomedicine is the discipline that understands the body as a biological system governed by physical laws, chemical processes, and observable cause-effect relationships. It seeks to measure, model, and intervene — using tools that are testable, repeatable, and falsifiable.
+
 The biomedical approach to training is the inevitable outcome of our epistemic standards. The day when a more appropriate approach is found will be the glorious day when LST 2.0 will be born.
+
+LST doesn’t follow the biomedical model out of allegiance. It lands there because, when every other approach is put through our epistemic filters, biomedicine is simply the last one standing. What follows now is we'll consider competing approaches one by one:
+
+####
