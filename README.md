@@ -5,6 +5,19 @@ Longevity Specific Training (LST) is a biomedical approach to exercising that ta
 
 This system is designed by a community of [Longevity Athletes](https://www.longevityworldcup.com/), moderated and arbitrated by nopara73, a random guy on the Internet.
 
+## Audience
+
+LST is for obsessive longevity athletes who'd like to optimize their exercising for longevity.
+
+### Who is it not for?
+
+If you just want to do minimal exercise.
+If you play another sport.
+
+### Who is it for?
+
+It is for obsessive longevity athletes who'd like to optimize their exercising for longevity.
+
 ## Methodology
 
 ### Epistemology
