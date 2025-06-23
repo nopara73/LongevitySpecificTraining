@@ -14,10 +14,6 @@ The naming choice of Longevity Specific Training (LST) is a tribute to Bryan Hay
 Similarly to HST, LST fuses real science with the practical realities of longevity athletes.  
 But unlike HST, which started out from the premise that resistance training is ideal for its goal: muscle growth, we cannot make such an assumption for our goal: longevity. Therefore our first and most important task will be to figure out what set of exercise systems is optimal for longevity.
 
-## Naming
-
-The naming choice of Longevity Specific Training (LST) is a tribute to Bryan Hancock's Hypertrophy Specific Training (HST) from 2000. Bryan Hancock fused scientific insight with hands-on experience to create HST—an evidence-backed, total‑body, full‑frequency training system that reshaped how lifters approach muscle growth.
-
 ## Methodology
 
 ### Epistemology
