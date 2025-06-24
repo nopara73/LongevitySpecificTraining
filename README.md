@@ -35,11 +35,13 @@ LST doesn’t follow the biomedical model out of allegiance. It lands there beca
 
 #### Anecdotal Approach
 
-It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience. We must however diferrentiate between whose personal experience is it: yours or mine? My personal experience has a higher value for me, than yours. Often my personal experience even trumps scientific studies when it comes to applying the knowledge to my own body. For the purposes of this document however, anecdotes are allowed only as illustrations and never as arguments.
-
 ![image](https://github.com/user-attachments/assets/5c9ed9a0-525a-4d00-bfb5-cacc0d93a33e)
 
+It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience. We must however diferrentiate between whose personal experience is it: yours or mine? My personal experience has a higher value for me, than yours. Often my personal experience even trumps scientific studies when it comes to applying the knowledge to my own body. For the purposes of this document however, anecdotes are allowed only as illustrations and never as arguments.
+
 #### Naturalistic / Evolutionary / Ancestral Approaches
+
+![image](https://github.com/user-attachments/assets/afbe0427-ba0f-4589-8c04-dd53319159f0)
 
 While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments.
 
