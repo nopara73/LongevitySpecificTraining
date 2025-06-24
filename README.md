@@ -35,7 +35,7 @@ LST doesn’t follow the biomedical model out of allegiance. It lands there beca
 
 #### Anecdotal Approach
 
-It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience.
+It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience. We must however diferrentiate between whose personal experience is it: yours or mine? My personal experience has a higher value for me, than yours. Often my personal experience even trumps scientific studies when it comes to applying the knowledge to my own body. For the purposes of this document however, anecdotes are allowed only as illustrations and never as arguments.
 
 ![image](https://github.com/user-attachments/assets/5c9ed9a0-525a-4d00-bfb5-cacc0d93a33e)
 
