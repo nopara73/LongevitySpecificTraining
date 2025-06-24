@@ -40,38 +40,38 @@ While anecdotes are for novices, intutions are for experts. Of course everyone h
 
 While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments. May the gods save us from this every happening!
 
-### Psychological / Gamified / Competitive Approaches
+#### Psychological / Gamified / Competitive Approaches
 Psychological, gamified and competitive approaches can yield great results. However only if their goals are set correctly. Since our project here is precisely to learn what these goals are, psychologocial and gamified approaches are delegated to eager contributors to build on top of our knowledge base and not into it. Perhaps this task is just for you! Make a business out of it!
 
-### Functionalist / Skill Centric Approaches
+#### Functionalist / Skill Centric Approaches
 Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, this approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the this approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.  
 
 This is even more apparent with other skill centric and functionalist approaches. Even the lifelong learning of diverse skill acquisition, which isn't limited to longevity specific skill acquisition is a training system rather than a real competing approach.
 
-### Pain Avoidant Approach
+#### Pain Avoidant Approach
 Pain science, the avoidance of pain is similarly incomplete. Rehab and similar training systems shall be considered down the line, but not as an approach.
 
-### Hormetic / Anti-fragile Approaches
+#### Hormetic / Anti-fragile Approaches
 ![image](https://github.com/user-attachments/assets/433bc5cd-5956-4bd9-85d1-735bf4cce9d3)
 
 Hormesis is the observation that the right dose of stress triggers repair and adaptation. The principles of hormesis and antifragility is sound, but these don't serve us as approaches. Where, how much, if and when hormesis or antifragility happens is a matter of biomedicinal measurements.
 
-### Minimalistic Approach
+#### Minimalistic Approach
 Whilte this isn't a traditional competitor to the biomedical approach, an important learnings to be gained here. The idea is to keep every biomarker in the average range. We shall not try to achieve excellent VO2Maxes, but average is good enough. While this might sound appealing this leaves no buffer room against unexpected stress or illness. The wall that keeps the river at bay 99% of the year, still floods the city. We need more antifragility.
 
-### Random Approaches
+#### Random Approaches
 Let's leave the study of randomness for the cryptographers.
 
-### Aesthetic Approaches
+#### Aesthetic Approaches
 What looks better works better, but only if all other things are equal. Our biomedical approach must consider this and all other things as well.
 
-### Holistic Approaches
+#### Holistic Approaches
 “Holistic” tends to stand in for “I haven’t defined my goals.” If it means treating the body as a system, then LST is already holistic — with numbers. If it means vibes, then it’s not for us.
 
-### Spiritual / Ritualistic / Religious Approaches
+#### Spiritual / Ritualistic / Religious Approaches
 Reverence, prayer, mantras, moon salutations—great for meaning, less so for mortality curves.
 
-### Systems Theory / Complexity Approaches
+#### Systems Theory / Complexity Approaches
 
-### Posthuman Preparation Approach
+#### Posthuman Preparation Approach
 Longevity training is not apocalypse prep. Cryonics and space bunkers are interesting thought experiments. But until we live in zero gravity or upload consciousness, biology still rules. When the singularity comes, we’ll write LST 3.0.
