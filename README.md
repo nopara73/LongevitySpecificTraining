@@ -35,6 +35,9 @@ It worked for me therefore it'll work for you. According to the Dreyfus model, m
 #### Intuitive Approach
 While anecdotes are for novices, intutions are for experts. Of course everyone has intuition, but only at an expert level can one consistently rely on it. And since you're at it, my expert, why not try to measure and quantify your intuitions? Imagine having a record of a set of intuitions of experts on the relevant topics that we can call upon for the goal of achieving longevity? Oh wait, that's what biomedicine is.
 
+#### Quantified Self Approach
+The quantified self approach centers on the individual as an n=1 experiment, using wearables, trackers, and blood panels to optimize through constant feedback. While biomedicine provides population-level truths, the quantified self approach focuses on self-optimization through rapid feedback loops. This might seem as a true competitor to the biomedical approach, but its weakness lies in its scope: quantified self approaches can work well within training systems, but not as an arbitrer in between them, like our project aims to be. Thus our project will use self quantification only in rudimentary ways: for example we'll have conditional exercises, where the conditions are self quantified decision trees in essence. But for the most part our biomedicinal project will serve as a starting point for specific quantified self approaches, which may or may not exist already. Therefore self quantification is a tool of ours, rather than our approach.
+
 #### Naturalistic / Evolutionary / Ancestral Approaches
 ![image](https://github.com/user-attachments/assets/afbe0427-ba0f-4589-8c04-dd53319159f0)
 
@@ -68,10 +71,14 @@ What looks better works better, but only if all other things are equal. Our biom
 #### Holistic Approaches
 “Holistic” tends to stand in for “I haven’t defined my goals.” If it means treating the body as a system, then LST is already holistic — with numbers. If it means vibes, then it’s not for us.
 
+#### Ecological / Environmentalist Approach
+If Bryan Johnson chooses not to eat animals, that’s his call. But this is a longevity project. Environmental values may guide personal choices, but they don’t abitrate the outcomes of this project.
+
 #### Spiritual / Ritualistic / Religious Approaches
 Reverence, prayer, mantras, moon salutations—great for meaning, less so for mortality curves.
 
-#### Systems Theory / Complexity Approaches
-
 #### Posthuman Preparation Approach
 Longevity training is not apocalypse prep. Cryonics and space bunkers are interesting thought experiments. But until we live in zero gravity or upload consciousness, biology still rules. When the singularity comes, we’ll write LST 3.0.
+
+#### Military / Tactical Fitness Approach
+This approach optimizes for strength, endurance, and readiness under extreme or combative conditions — think rucking, obstacle courses, and durability under load. It’s about surviving hostile environments, not outliving peaceful ones. Just like posthuman prep, it addresses hypothetical extremes rather than actual longevity.
