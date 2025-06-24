@@ -33,4 +33,12 @@ The biomedical approach to training is the inevitable outcome of our epistemic s
 
 LST doesn’t follow the biomedical model out of allegiance. It lands there because, when every other approach is put through our epistemic filters, biomedicine is simply the last one standing. What follows now is we'll consider competing approaches one by one:
 
-####
+#### Anecdotal Approach
+
+It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience.
+
+![image](https://github.com/user-attachments/assets/5c9ed9a0-525a-4d00-bfb5-cacc0d93a33e)
+
+#### Evolutionary / Ancestral Approach
+
+Romantic reconstruction of a past that averaged short lifespans.
