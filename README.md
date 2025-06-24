@@ -45,5 +45,9 @@ It worked for me therefore it'll work for you. According to the Dreyfus model, m
 
 While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments. May the gods save us from this every happening!
 
+### Psychological / Gamified Approaches
+
+Psychological and gamified approaches can yield great results. However only if their goals are set correctly. Since our project here is precisely to learn what these goals are, psychologocial and gamified approaches are delegated to eager contributors to build on top of our knowledge base and not into it. Perhaps this task is just for you! Make a business out of it!
+
 ### Functionalist Approach
 Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, the functionalist approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the functionalist approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.
