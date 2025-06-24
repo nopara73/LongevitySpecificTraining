@@ -39,15 +39,19 @@ LST doesn’t follow the biomedical model out of allegiance. It lands there beca
 
 It worked for me therefore it'll work for you. According to the Dreyfus model, monkey see - monkey do is an excellent way of skill acquisition for a beginner, but for us, professionals, it's less so. Scientific studies trump your personal experience. We must however diferrentiate between whose personal experience is it: yours or mine? My personal experience has a higher value for me, than yours. Often my personal experience even trumps scientific studies when it comes to applying the knowledge to my own body. For the purposes of this document however, anecdotes are allowed only as illustrations and never as arguments.
 
+#### Intuitive Approach
+
+While anecdotes are for novices, intutions are for experts. Of course everyone has intuition, but only at an expert level can one consistently rely on it. And since you're at it, my expert, why not try to measure and quantify your intuitions? Imagine having a record of a set of intuitions of experts on the relevant topics that we can call upon for the goal of achieving longevity? Oh wait, that's what biomedicine is.
+
 #### Naturalistic / Evolutionary / Ancestral Approaches
 
 ![image](https://github.com/user-attachments/assets/afbe0427-ba0f-4589-8c04-dd53319159f0)
 
 While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments. May the gods save us from this every happening!
 
-### Psychological / Gamified Approaches
+### Psychological / Gamified / Competitive Approaches
 
-Psychological and gamified approaches can yield great results. However only if their goals are set correctly. Since our project here is precisely to learn what these goals are, psychologocial and gamified approaches are delegated to eager contributors to build on top of our knowledge base and not into it. Perhaps this task is just for you! Make a business out of it!
+Psychological, gamified and competitive approaches can yield great results. However only if their goals are set correctly. Since our project here is precisely to learn what these goals are, psychologocial and gamified approaches are delegated to eager contributors to build on top of our knowledge base and not into it. Perhaps this task is just for you! Make a business out of it!
 
 ### Functionalist / Skill Centric Approaches
 Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, this approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the this approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.  
@@ -63,3 +67,7 @@ Hormesis is the observation that the right dose of stress triggers repair and ad
 ### Minimalistic Approach
 
 Whilte this isn't a traditional competitor to the biomedical approach, an important learnings to be gained here. The idea is to keep every biomarker in the average range. We shall not try to achieve excellent VO2Maxes, but average is good enough. While this might sound appealing this leaves no buffer room against unexpected stress or illness. The wall that keeps the river at bay 99% of the year, still floods the city. We need more antifragility.
+
+### Random Approaches
+
+Let's leave the study of randomness for the cryptographers.
