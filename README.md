@@ -53,3 +53,9 @@ Psychological and gamified approaches can yield great results. However only if t
 Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, this approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the this approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.  
 
 This is even more apparent with other skill centric and functionalist approaches. Even the lifelong learning of diverse skill acquisition, which isn't limited to longevity specific skill acquisition is a training system rather than a real competing approach.
+
+### Hormetic / Anti-fragile Approaches
+
+![image](https://github.com/user-attachments/assets/433bc5cd-5956-4bd9-85d1-735bf4cce9d3)
+
+Hormesis is the observation that the right dose of stress triggers repair and adaptation. The principles of hormesis and antifragility is sound, but these don't serve us as approaches. Where, how much, if and when hormesis or antifragility happens is a matter of biomedicinal measurements.
