@@ -39,6 +39,9 @@ It worked for me therefore it'll work for you. According to the Dreyfus model, m
 
 ![image](https://github.com/user-attachments/assets/5c9ed9a0-525a-4d00-bfb5-cacc0d93a33e)
 
-#### Evolutionary / Ancestral Approach
+#### Naturalistic / Evolutionary / Ancestral Approaches
 
-Romantic reconstruction of a past that averaged short lifespans. However it would be reckless to fully dismiss evolutionary explanations of biological mechanisms, but we must put this into its rightful place: illustrations or last resort arguments.
+While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments.
+
+### Functionalist Approach
+Reverse-engineer training from the abilities you still want to reteain in your last decade. The functionalist approach poses a real competition for our biomedical approach.
