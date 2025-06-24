@@ -59,3 +59,7 @@ This is even more apparent with other skill centric and functionalist approaches
 ![image](https://github.com/user-attachments/assets/433bc5cd-5956-4bd9-85d1-735bf4cce9d3)
 
 Hormesis is the observation that the right dose of stress triggers repair and adaptation. The principles of hormesis and antifragility is sound, but these don't serve us as approaches. Where, how much, if and when hormesis or antifragility happens is a matter of biomedicinal measurements.
+
+### Minimalistic Approach
+
+Whilte this isn't a traditional competitor to the biomedical approach, an important learnings to be gained here. The idea is to keep every biomarker in the average range. We shall not try to achieve excellent VO2Maxes, but average is good enough. While this might sound appealing this leaves no buffer room against unexpected stress or illness. The wall that keeps the river at bay 99% of the year, still floods the city. We need more antifragility.
