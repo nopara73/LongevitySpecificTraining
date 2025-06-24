@@ -17,7 +17,7 @@ LST is for obsessive longevity athletes who'd like to optimize their exercising 
 ## Inspiration
 The naming choice of Longevity Specific Training (LST) is a tribute to Bryan Haycock’s Hypertrophy Specific Training (HST) from the year 2000. Haycock fused real science and bro science to create HST — an evidence based, full body training system that changed the way we lift, bro.   
 Similarly to HST, LST fuses real science with the practical realities of longevity athletes.  
-But unlike HST, which started out from the premise that resistance training is ideal for its goal: muscle growth, we cannot make such an assumption for our goal: longevity. Therefore our first and most important task will be to figure out what set of exercise systems is optimal for longevity.
+But unlike HST, LST starts where HST begins. HST started out from the premise that resistance training is ideal for its goal: muscle growth, we cannot make such an assumption for our goal: longevity. Therefore the objective of our project is to figure out what combination of exercise systems is optimal for longevity.
 
 ## Methodology
 
@@ -43,7 +43,7 @@ It worked for me therefore it'll work for you. According to the Dreyfus model, m
 
 ![image](https://github.com/user-attachments/assets/afbe0427-ba0f-4589-8c04-dd53319159f0)
 
-While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments.
+While the naturalistic, evolutionary or ancestral approaches generally lead to good results, that's not enough for us. In this document we aim for precision and greatness. The ancestral and evolutionary approaches are romantic reconstruction of a past that averaged short lifespans, while the naturalistic approach has its own fallacy named after it. However it would be reckless to fully dismiss such explanations of biological mechanisms, but we must put them into their rightful place: illustrations or last resort arguments. May the gods save us from this every happening!
 
 ### Functionalist Approach
-Reverse-engineer training from the abilities you still want to reteain in your last decade. The functionalist approach poses a real competition for our biomedical approach.
+Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, the functionalist approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the functionalist approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.
