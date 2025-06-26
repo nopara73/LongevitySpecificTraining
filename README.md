@@ -82,3 +82,9 @@ Longevity training is not apocalypse prep. Cryonics and space bunkers are intere
 
 #### Military / Tactical Fitness Approach
 This approach optimizes for strength, endurance, and readiness under extreme or combative conditions — think rucking, obstacle courses, and durability under load. It’s about surviving hostile environments, not outliving peaceful ones. But unlike posthuman prep, the probability of ending up in a natural disaster, war zone, or civil unrest is comparable to various disease states and like training to stand from the floor in your nineties, tactical readiness is a form of resilience worth considering. Later. As training systems. But not as an approach.
+
+## Goals
+
+In aging biology, the current scientific paradigm is called the "Hallmarks of aging." It would be tempting to let it set our end goals, but its scope is too narrow for us. The twelve hallmarks framework only covers intrinsic biological ageing mechanisms. It does not concern itsef with extrinsic or other instrinsic mechanisms. Falls kill more people over 75 than almost any cancer, and simple balance and strength training can cut that risk in half, yet the hallmarks of aging don't concern itself with such environment-driven threats.
+
+
