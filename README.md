@@ -85,6 +85,6 @@ This approach optimizes for strength, endurance, and readiness under extreme or 
 
 ## Goals
 
-In aging biology, the current scientific paradigm is called the "Hallmarks of aging." It would be tempting to let it set our end goals, but its scope is too narrow for us. The twelve hallmarks framework only covers intrinsic biological ageing mechanisms. It does not concern itsef with extrinsic or other instrinsic mechanisms. Falls kill more people over 75 than almost any cancer, and simple balance and strength training can cut that risk in half, yet the hallmarks of aging don't concern itself with such environment-driven threats.
+In aging biology, the current scientific paradigm is called the "Hallmarks of aging." It's tempting to let it set our end goals, but its scope is too narrow. The twelve hallmarks framework only covers intrinsic biological ageing mechanisms. It does not concern itsef with extrinsic or other instrinsic mechanisms. Falls kill more people over 75 than almost any cancer, and simple balance and strength training can cut that risk in half, yet the hallmarks of aging don't concern itself with such environment-driven threats. Insert joke about fittness as fitting to the environment.
 
 
