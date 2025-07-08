@@ -13,7 +13,7 @@ LST is for obsessive longevity athletes who'd like to optimize their exercising 
 ## Inspiration
 The naming choice of Longevity Specific Training (LST) is a tribute to Bryan Haycock’s Hypertrophy Specific Training (HST) from the year 2000. Haycock fused real science and bro science to create HST — an evidence based, full body training system that changed the way we lift, bro.   
 Similarly to HST, LST fuses real science with the practical realities of longevity athletes.  
-But unlike HST, LST starts where HST begins. HST started out from the premise that resistance training is ideal for its goal: muscle growth, we cannot make such an assumption for our goal: longevity. Therefore the objective of our project is to figure out what combination of exercise systems is optimal for longevity.
+But unlike HST, LST starts where HST begins. HST started out from the premise that resistance training is ideal for its goal: muscle growth, we cannot make such an assumption for our goal: longevity. Therefore the objective of our project is to figure out what combination of exercise systems, interventions from here on, is optimal for longevity.
 
 ## Methodology
 
@@ -36,7 +36,7 @@ It worked for me therefore it'll work for you. According to the Dreyfus model, m
 While anecdotes are for novices, intutions are for experts. Of course everyone has intuition, but only at an expert level can one consistently rely on it. And since you're at it, my expert, why not try to measure and quantify your intuitions? Imagine having a record of a set of intuitions of experts on the relevant topics that we can call upon for the goal of achieving longevity? Oh wait, that's what biomedicine is.
 
 #### Quantified Self Approach
-The quantified self approach centers on the individual as an n=1 experiment, using wearables, trackers, and blood panels to optimize through constant feedback. While biomedicine provides population-level truths, the quantified self approach focuses on self-optimization through rapid feedback loops. This might seem as a true competitor to the biomedical approach, but its weakness lies in its scope: quantified self approaches can work well within training systems, but not as an arbitrer in between them, like our project aims to be. Thus our project will use self quantification only in rudimentary ways: for example we'll have conditional exercises, where the conditions are self quantified decision trees in essence. But for the most part our biomedicinal project will serve as a starting point for specific quantified self approaches, which may or may not exist already. Therefore self quantification is a tool of ours, rather than our approach.
+The quantified self approach centers on the individual as an n=1 experiment, using wearables, trackers, and blood panels to optimize through constant feedback. While biomedicine provides population-level truths, the quantified self approach focuses on self-optimization through rapid feedback loops. This might seem as a true competitor to the biomedical approach, but its weakness lies in its scope: quantified self approaches can work well within interventions, but not as an arbitrer in between them, like our project aims to be. Thus our project will use self quantification only in rudimentary ways: for example we'll have conditional exercises, where the conditions are self quantified decision trees in essence. But for the most part our biomedicinal project will serve as a starting point for specific quantified self approaches, which may or may not exist already. Therefore self quantification is a tool of ours, rather than our approach.
 
 #### Naturalistic / Evolutionary / Ancestral Approaches
 ![image](https://github.com/user-attachments/assets/afbe0427-ba0f-4589-8c04-dd53319159f0)
@@ -47,12 +47,12 @@ While the naturalistic, evolutionary or ancestral approaches generally lead to g
 Psychological, gamified and competitive approaches can yield great results. However only if their goals are set correctly. Since our project here is precisely to learn what these goals are, psychologocial and gamified approaches are delegated to eager contributors to build on top of our knowledge base and not into it. Perhaps this task is just for you! Make a business out of it!
 
 #### Functionalist / Skill Centric Approaches
-Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, this approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the this approach, which we'll later categorize and consider as a potential traning system. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.  
+Reverse-engineer training from the abilities you still want to reteain in your last decade: stand from the floor, carry groceries, climb stairs. At first glance, this approach seem to pose a real competition for our biomedical approach, because it is logical: practise the squat today, keep the squat at ninety. Yet that sets up a false dilemma. The biological approach is a superset of the this approach, which we'll later categorize and consider as a potential intervention. Functional drills matter, but without the systemic work that biomedicine prescribes, it's like learning to smile while the teeth rot.  
 
-This is even more apparent with other skill centric and functionalist approaches. Even the lifelong learning of diverse skill acquisition, which isn't limited to longevity specific skill acquisition is a training system rather than a real competing approach.
+This is even more apparent with other skill centric and functionalist approaches. Even the lifelong learning of diverse skill acquisition, which isn't limited to longevity specific skill acquisition is an intervention rather than a real competing approach.
 
 #### Pain Avoidant Approach
-Pain science, the avoidance of pain is similarly incomplete. Rehab and similar training systems shall be considered down the line, but not as an approach.
+Pain science, the avoidance of pain is similarly incomplete. Rehab and similar interventions shall be considered down the line, but not as an approach.
 
 #### Hormetic / Anti-fragile Approaches
 ![image](https://github.com/user-attachments/assets/433bc5cd-5956-4bd9-85d1-735bf4cce9d3)
@@ -81,7 +81,7 @@ Reverence, prayer, mantras, moon salutations—great for meaning, less so for mo
 Longevity training is not apocalypse prep. Cryonics and space bunkers are interesting thought experiments. But until we live in zero gravity or upload consciousness, biology still rules. When the singularity comes, we’ll write LST 3.0.
 
 #### Military / Tactical Fitness Approach
-This approach optimizes for strength, endurance, and readiness under extreme or combative conditions — think rucking, obstacle courses, and durability under load. It’s about surviving hostile environments, not outliving peaceful ones. But unlike posthuman prep, the probability of ending up in a natural disaster, war zone, or civil unrest is comparable to various disease states and like training to stand from the floor in your nineties, tactical readiness is a form of resilience worth considering. Later. As training systems. But not as an approach.
+This approach optimizes for strength, endurance, and readiness under extreme or combative conditions — think rucking, obstacle courses, and durability under load. It’s about surviving hostile environments, not outliving peaceful ones. But unlike posthuman prep, the probability of ending up in a natural disaster, war zone, or civil unrest is comparable to various disease states and like training to stand from the floor in your nineties, tactical readiness is a form of resilience worth considering. Later. As interventions. But not as an approach.
 
 ## Goals
 
