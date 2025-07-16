@@ -21,6 +21,8 @@ But unlike HST, LST starts where HST begins. HST started out from the premise th
 Epistemology is the study of how we know what we know. It gives us the tools to decide what should count as knowledge as we build this system. We trust methods that consistently point us to truths: we prioritize measurable outcomes and verifiable evidence, doubting claims that are uncertain, biased, or inconsistent. We fill gaps in evidence through logical reasoning, maintaining consistency with established knowledge. Where evidence and logic end, pragmatism begins — what works rules.
 
 ### Biomedical Approach
+Feedback: https://www.youtube.com/watch?v=HOb1nrQri94
+
 Biomedicine is the discipline that understands the body as a biological system governed by physical laws, chemical processes, and observable cause-effect relationships. It seeks to measure, model, and intervene — using tools that are testable, repeatable, and falsifiable.
 
 The biomedical approach to training is the inevitable outcome of our epistemic standards. The day when a more appropriate approach is found will be the glorious day when LST 2.0 will be born.
